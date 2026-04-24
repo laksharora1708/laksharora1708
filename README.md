@@ -1,3 +1,4 @@
+````md
 # Hi there 👋 I'm Laksh Arora
 
 <div align="center">
@@ -46,11 +47,11 @@ Focus:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
+![Stats](https://github-readme-stats.vercel.app/api?username=laksharora1708\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laksharora1708\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0d1117)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=true\&background=0D1117)
+![Streak](https://streak-stats.demolab.com?user=laksharora1708\&theme=tokyonight\&hide_border=true\&background=0D1117)
 
 </div>
 
@@ -83,23 +84,7 @@ Focus:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=laksharora1708\&style=for-the-badge\&color=blueviolet)
 
 </div>
 ```
-## Hi there 👋
-
-<!--
-**laksharora1708/laksharora1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
