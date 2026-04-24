@@ -1,4 +1,3 @@
-````md
 # Hi there 👋 I'm Laksh Arora
 
 <div align="center">
